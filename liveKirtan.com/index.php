@@ -60,6 +60,7 @@
     </header>
     <!-- About Section -->
     <div class="w3-container" style="padding:128px 16px" id="about">
+        
         <h3 class="w3-center">ABOUT KIRTAN</h3>
         <p class="w3-center w3-large">... in Sikhism</p>
         <div class="w3-row-padding w3-content w3-center" style="margin-top:64px">

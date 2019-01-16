@@ -3,8 +3,7 @@ Listen to live kirtan
 
 This website project named ‘Listen to live’ is designed to listen the live/recorded kirtan(devotional singing in Sikhism) from Sri Harmandir Sahib, located in the city of Amritsar, Punjab, India. 
 
-More on this holy place could be found on YouTube at <a href=“https://www.youtube.com/watch?v=33vC4G1KRuY”>Revealed: The Golden Temple
-</a>
+More on this holy place could be found on YouTube at https://www.youtube.com/watch?v=33vC4G1KRuY
 
 The website allows
 1. Listen to live kirtan(4am-10pm in India)

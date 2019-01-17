@@ -1,12 +1,4 @@
-http://www.ourwebsite.com/
-http://www.ourwebsite.com/products/our-products.html
-http://www.ourwebsite.com/products/product1/product-one.html
-http://www.ourwebsite.com/products/product2/product-two.html
-http://www.ourwebsite.com/products/product3/product-three.html
-http://www.ourwebsite.com/services/our-services.html
-http://www.ourwebsite.com/services/service1/service-one.html
-http://www.ourwebsite.com/services/service2/service-two.html
-http://www.ourwebsite.com/services/service3/service-three.html
-http://www.ourwebsite.com/about/our-sitemap.html
-http://www.ourwebsite.com/about/about-us.html
-http://www.ourwebsite.com/about/contact-us.html
+http://localhost/live/livekirtan.com/index.php
+http://localhost/live/livekirtan.com/downloads/downloads.php
+http://localhost/live/livekirtan.com/tour/tour.php
+http://localhost/live/livekirtan.com/about/contact.php
